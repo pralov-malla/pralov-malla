@@ -6,7 +6,6 @@
 
 <p><strong><code>Aspiring AI/ML Engineer · Fine-tuning · RAG · LLMs</code></strong></p>
 
-
 ```python
 pralov = {
     "focus"      : ["Machine Learning", "Deep Learning", "LLM Fine-tuning", "RAG Systems", "NLP"],
@@ -43,6 +42,7 @@ pralov = {
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 **Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 <p align="center">📫 <strong>pralov.malla123@gmail.com</strong> &nbsp;·&nbsp; 📍 Lalitpur, Nepal</p>
