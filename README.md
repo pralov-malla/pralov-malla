@@ -1,12 +1,20 @@
+<table>
+    <tr>
+        <td width="60%" valign="top">
+
 # Hi, I'm Pralov Malla 👋
 
 **`Aspiring AI/ML Engineer · Fine-tuning · RAG · LLMs`**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pralov-malla&style=flat&color=58a6ff&label=Profile+Views)
 
-<p align="right">
-    <img src="https://media1.tenor.com/m/QmVTfQw3pjYAAAAd/coding-scaler.gif" alt="Coding gif" width="280" />
-</p>
+    </td>
+    <td width="40%" align="right" valign="top">
+        <img src="https://media1.tenor.com/m/QmVTfQw3pjYAAAAd/coding-scaler.gif" alt="Coding gif" width="280" />
+    </td>
+    </tr>
+
+</table>
 
 ---
 
