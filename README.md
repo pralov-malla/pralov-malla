@@ -1,18 +1,18 @@
-<table>
-    <tr>
-        <td width="60%" valign="top">
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=pralov-malla&label=Profile%20views&color=0e75b6&style=flat" alt="pralov-malla" />
+</p>
 
-<h1>Hi, I'm Pralov Malla 👋</h1>
+# Hi, I'm Pralov Malla 👋
 
-<p><strong><code>Aspiring AI/ML Engineer · Fine-tuning · RAG · LLMs</code></strong></p>
+**`Aspiring AI/ML Engineer · Fine-tuning · RAG · LLMs`**
 
 ```python
 pralov = {
-    "focus"      : ["Machine Learning", "Deep Learning", "LLM Fine-tuning", "RAG Systems", "NLP"],
-    "learning"   : ["PEFT/LoRA", "Agentic Systems", "Multimodal Models"],
-    "tools"      : ["PyTorch", "Transformers", "TRL", "FastAPI", "W&B"],
-    "background" : "BSc. CSIT @ St. Xavier's College, Kathmandu",
-    "goal"       : "Building reliable, evaluation-driven AI systems"
+    "focus": ["Machine Learning", "Deep Learning", "LLM Fine-tuning", "RAG Systems", "NLP"],
+    "learning": ["PEFT/LoRA", "Agentic Systems", "Multimodal Models"],
+    "tools": ["PyTorch", "Transformers", "TRL", "FastAPI", "W&B"],
+    "background": "BSc. CSIT @ St. Xavier's College, Kathmandu",
+    "goal": "Building reliable, evaluation-driven AI systems"
 }
 ```
 
