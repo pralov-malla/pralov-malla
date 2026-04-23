@@ -1,8 +1,12 @@
 # Hi, I'm Pralov Malla 👋
 
-**`AI/ML Engineer · Fine-tuning · RAG · LLMs`**
+**`Aspiring AI/ML Engineer · Fine-tuning · RAG · LLMs`**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pralov-malla&style=flat&color=58a6ff&label=Profile+Views)
+
+<p align="right">
+    <img src="https://media1.tenor.com/m/QmVTfQw3pjYAAAAd/coding-scaler.gif" alt="Coding gif" width="280" />
+</p>
 
 ---
 
@@ -30,6 +34,8 @@ pralov = {
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 **Backend & Tools**
@@ -40,10 +46,6 @@ pralov = {
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 **Languages**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
 
-📫 **pralov.malla123@gmail.com** &nbsp;·&nbsp; 📍 Lalitpur, Nepal
+<p align="center">📫 <strong>pralov.malla123@gmail.com</strong> &nbsp;·&nbsp; 📍 Lalitpur, Nepal</p>
