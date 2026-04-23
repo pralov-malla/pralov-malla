@@ -8,7 +8,7 @@
 
 ```python
 pralov = {
-    "focus"      : ["LLM Fine-tuning", "RAG Systems", "NLP", "AI Evaluation"],
+    "focus"      : ["Machine Learning", "Deep Learning", "LLM Fine-tuning", "RAG Systems", "NLP"],
     "learning"   : ["PEFT/LoRA", "Agentic Systems", "Multimodal Models"],
     "tools"      : ["PyTorch", "Transformers", "TRL", "FastAPI", "W&B"],
     "background" : "BSc. CSIT @ St. Xavier's College, Kathmandu",
