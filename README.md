@@ -2,21 +2,10 @@
     <tr>
         <td width="60%" valign="top">
 
-# Hi, I'm Pralov Malla 👋
+<h1>Hi, I'm Pralov Malla 👋</h1>
 
-**`Aspiring AI/ML Engineer · Fine-tuning · RAG · LLMs`**
+<p><strong><code>Aspiring AI/ML Engineer · Fine-tuning · RAG · LLMs</code></strong></p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pralov-malla&style=flat&color=58a6ff&label=Profile+Views)
-
-    </td>
-    <td width="40%" align="right" valign="top">
-        <img src="https://media1.tenor.com/m/QmVTfQw3pjYAAAAd/coding-scaler.gif" alt="Coding gif" width="280" />
-    </td>
-    </tr>
-
-</table>
-
----
 
 ```python
 pralov = {
