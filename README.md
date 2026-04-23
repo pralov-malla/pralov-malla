@@ -16,7 +16,6 @@ pralov = {
 }
 ```
 
-
 ### 🛠️ Tech Stack
 
 **AI / ML**
@@ -46,16 +45,5 @@ pralov = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pralov-malla&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pralov-malla&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="150" />
-</p>
-
----
 
 📫 **pralov.malla123@gmail.com** &nbsp;·&nbsp; 📍 Lalitpur, Nepal
